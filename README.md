@@ -1,7 +1,7 @@
 # pvr.stalker
-Add-on for Kodi 20.0-ALPHA1, Compiled for LG webOS
+Add-on for Kodi 21.0-ALPHA3, Compiled for LG webOS
 
-Important! It is not installed by Kodi via .ZIP as usual, but must be copied manually to TV.
+Important! You can also install manually if .zip does not work.
 
 Unzip the pvr.stalker.zip and copy the folder pvr.stalker to `/media/developer/apps/usr/palm/applications/org.xbmc.kodi/addons/` on the TV using FileZilla.
 
